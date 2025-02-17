@@ -1,8 +1,8 @@
-// 4659 비밀번호 발음하기
+package BOJ4000_4999;// 4659 비밀번호 발음하기
 
 import java.util.Scanner;
 
-public class Main {
+public class BOJ4659 {
 
     // 1. 모음(a,e,i,o,u) 하나를 반드시 포함하여야 한다.
     // 2. 모임 혹은 자음이 3개 연속으로 오면 안된다.
