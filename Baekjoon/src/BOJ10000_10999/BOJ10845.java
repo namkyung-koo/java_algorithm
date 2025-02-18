@@ -1,10 +1,10 @@
-package test;
+package BOJ10000_10999;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Scanner;
 
-public class Main {
+public class BOJ10845 {
 
     public static void main(String[] args) {
 
