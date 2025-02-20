@@ -1,4 +1,4 @@
-package practice;
+package BOJ1000_1999; // 1920 수 찾기
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ1920 {
 
     public static void main(String[] args) throws IOException {
 
