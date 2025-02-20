@@ -1,4 +1,4 @@
-package practice;
+package BOJ2000_2999;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class Main {
+public class BOJ2164 {
 
     public static void main(String[] args) throws IOException {
 
@@ -30,3 +30,4 @@ public class Main {
         System.out.println(deque.getFirst());
     }
 }
+
