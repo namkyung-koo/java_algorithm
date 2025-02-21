@@ -1,4 +1,4 @@
-package practice;
+package BOJ11000_11999; // 11650 좌표 정렬하기
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-public class Main {
+public class BOJ11650 {
 
     public static void main(String[] args) throws IOException {
 
