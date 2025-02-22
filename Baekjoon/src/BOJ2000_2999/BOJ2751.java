@@ -1,4 +1,4 @@
-package practice;
+package BOJ2000_2999; // 수 정렬하기 2
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.Set;
 import java.util.StringTokenizer;
 import java.util.TreeSet;
 
-public class Main {
+public class BOJ2751 {
 
     public static void main(String[] args) throws IOException {
 
