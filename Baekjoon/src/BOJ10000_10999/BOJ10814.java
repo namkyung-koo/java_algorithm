@@ -1,4 +1,4 @@
-package practice;
+package BOJ10000_10999; // 나이순 정렬
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 
-public class Main {
+public class BOJ10814 {
 
     public static void main(String[] args) throws IOException {
 
