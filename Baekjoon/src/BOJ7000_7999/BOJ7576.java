@@ -1,4 +1,4 @@
-package practice;// 7576 토마토
+package BOJ7000_7999; // 7576 - 토마토
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ7576 {
 
     static int[] dx = {-1, 0, 1, 0};
     static int[] dy = {0, 1, 0, -1};

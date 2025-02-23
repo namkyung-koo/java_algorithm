@@ -1,4 +1,4 @@
-package BOJ2000_2999; // 수 정렬하기 2
+package BOJ2000_2999; // 2751 - 수 정렬하기 2
 
 import java.io.BufferedReader;
 import java.io.IOException;

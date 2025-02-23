@@ -1,4 +1,4 @@
-package BOJ2000_2999; // 2164 카드 2
+package BOJ2000_2999; // 2164 - 카드 2
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BOJ10000_10999; // 10845 큐
+package BOJ10000_10999; // 10845 - 큐
 
 import java.util.ArrayDeque;
 import java.util.Deque;

@@ -1,4 +1,4 @@
-package BOJ1000_1999; // 1920 수 찾기
+package BOJ1000_1999; // 1920 - 수 찾기
 
 import java.io.BufferedReader;
 import java.io.IOException;

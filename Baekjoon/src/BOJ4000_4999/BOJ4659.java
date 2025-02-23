@@ -1,4 +1,4 @@
-package BOJ4000_4999;// 4659 비밀번호 발음하기
+package BOJ4000_4999;// 4659 - 비밀번호 발음하기
 
 import java.util.Scanner;
 

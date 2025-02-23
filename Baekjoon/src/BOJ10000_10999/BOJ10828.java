@@ -1,4 +1,4 @@
-package BOJ10000_10999; // 10828 스택
+package BOJ10000_10999; // 10828 - 스택
 
 import java.util.Deque;
 import java.util.LinkedList;

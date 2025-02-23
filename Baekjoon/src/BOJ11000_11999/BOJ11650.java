@@ -1,4 +1,4 @@
-package BOJ11000_11999; // 11650 좌표 정렬하기
+package BOJ11000_11999; // 11650 - 좌표 정렬하기
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BOJ11000_11999; // 11866 요세푸스 문제0
+package BOJ11000_11999; // 11866 - 요세푸스 문제0
 
 import java.util.Iterator;
 import java.util.LinkedList;

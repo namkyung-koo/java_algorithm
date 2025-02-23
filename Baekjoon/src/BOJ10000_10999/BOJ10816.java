@@ -1,4 +1,4 @@
-package BOJ10000_10999; // 숫자 카드 2
+package BOJ10000_10999; // 10816 - 숫자 카드 2
 
 import java.io.BufferedReader;
 import java.io.IOException;

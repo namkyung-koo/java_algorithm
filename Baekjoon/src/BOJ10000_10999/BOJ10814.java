@@ -1,4 +1,4 @@
-package BOJ10000_10999; // 나이순 정렬
+package BOJ10000_10999; // 10814 - 나이순 정렬
 
 import java.io.BufferedReader;
 import java.io.IOException;
