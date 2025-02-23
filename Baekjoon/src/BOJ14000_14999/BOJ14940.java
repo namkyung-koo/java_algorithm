@@ -1,4 +1,4 @@
-package practice;
+package BOJ14000_14999; // 14940 - 쉬운 최단거리
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ14940 {
 
     static int[] dx = {0, 1, 0, -1};
     static int[] dy = {-1, 0, 1, 0};
