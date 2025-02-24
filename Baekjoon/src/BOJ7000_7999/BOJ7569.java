@@ -1,9 +1,14 @@
-package practice;
+package BOJ7000_7999; // 7569 - 토마토
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayDeque;
+import java.util.Deque;
+import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ7569 {
+
     static int M, N, H;
     static int[][][] tomatoes;
     static boolean[][][] visited;
