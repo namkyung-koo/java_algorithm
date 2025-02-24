@@ -1,11 +1,11 @@
-package practice;
+package BOJ14000_14999; // 14500 - 테트로미노
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ14500 {
 
     static int n, m;
     static int max = 0;
