@@ -1,4 +1,4 @@
-package practice;
+package BOJ16000_16999; // 16982 - 뱀과 사다리 게임
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ16928 {
 
     static int N, M;
     static int[] board = new int[101];
