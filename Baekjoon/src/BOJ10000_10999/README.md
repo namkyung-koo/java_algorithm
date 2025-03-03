@@ -13,7 +13,7 @@
   3. BufferedReader 사용. Scanner는 동기화 처리가 되어 있어 속도가 느리다.
 
 ## 📌 BOJ 10816 - 슷자 카드2
-- **문제 링크**: [백준 10816번] (https://www.acmicpc.net/problem/10816)
+- **문제 링크**: [백준 10816번](https://www.acmicpc.net/problem/10816)
 - **풀이 요약**: 단순 비교를 통해 몇 장을 가지고 있는지 출력. 시간 제한이 핵심
 - **개선 방법**
 1. 이중 반복문으로 단순 비교를 수행. 시간 초과 문제 발생
@@ -21,7 +21,7 @@
 3. 입출력 데이터가 많을 때는, BufferedReader와 StringBuilder를 사용하는 것이 좋다.
 
 ## 📌 BOJ 10814 - 나이순 정렬
-- **문제 링크**: [백준 10814번] (https://www.acmicpc.net/problem/10814)
+- **문제 링크**: [백준 10814번](https://www.acmicpc.net/problem/10814)
 - **풀이 요약**: 키,값을 오름차순으로 저장하는 TreeMap을 사용하되, 키가 같은 경우 값을 들어온 순서대로 저장해야 함. 값 저장에는 LinkedList가 적합하다고 생각.
 - **알게된 점**
 1. Entry는 Map 내부 인터페이스이며, static으로 설정되어 있어 Map 객체 없이도 호출할 수 있다.
