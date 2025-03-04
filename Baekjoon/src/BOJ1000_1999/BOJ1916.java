@@ -1,4 +1,4 @@
-package practice;
+package BOJ1000_1999; // 최소 비용 구하기
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class Main {
+public class BOJ1916 {
 
     static int N, M;
 
