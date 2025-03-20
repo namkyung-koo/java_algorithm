@@ -1,4 +1,4 @@
-package practice;
+package BOJ17000_17999; // 17144 - 미세먼지 안녕!
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ17144 {
 
     static int R, C, T;
     static Deque<int[]> airCleaner = new ArrayDeque<>();
