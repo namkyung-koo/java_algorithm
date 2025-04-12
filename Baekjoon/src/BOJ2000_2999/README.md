@@ -30,8 +30,14 @@
     - 1001 => 4개 도시 중 0, 3번 도시 방문 ...
     - tsp의 if (visited == (1 << N) - 1)는 1110으로 출발 도시로 돌아가는 경로를 더하는 것만 남았음을 의미한다.
 - **비슷한 유형 문제**
-  - [외판원 순회 2](https://www.acmicpc.net/problem/10971)
-  - [외판원 순회 3](https://www.acmicpc.net/problem/16991)
-  - [우주 탐사선](https://www.acmicpc.net/problem/17182)
-  - [발전소](https://www.acmicpc.net/problem/1102)
+  - [외판원 순회 2](https://www.acmicpc.net/problem/10971) ✅
+  - [외판원 순회 3](https://www.acmicpc.net/problem/16991) ✅
+  - [우주 탐사선](https://www.acmicpc.net/problem/17182) ✅
+  - [발전소](https://www.acmicpc.net/problem/1102) ✅
   - [임계경로](https://www.acmicpc.net/problem/1948)
+
+## 📌 BOJ 2467 - 용액
+- **문제 링크**: [백준 2467번](https://www.acmicpc.net/problem/2467)
+- **풀이 요약**
+  - 오름차순으로 정렬된 수들이 예제로 입력된다.
+  - 가장 작은 수(알칼리성 용액)과 가장 큰 수(산성 용액)의 합한 값을 비교하여 0 또는 0에 가까운 값을 갱신해간다.
